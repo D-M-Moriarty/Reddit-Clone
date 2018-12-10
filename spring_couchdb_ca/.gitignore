@@ -1,0 +1,54 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/*.idea
+/**/.idea
+/*.iml
+*.iml
+/**/*.iml
+/.settings
+/.checkstyle
+/.classpath
+/.project
+/target
+/**/.settings
+/**/.checkstyle
+/**/.classpath
+/**/.project
+/**/target
+/**/target/**
+/**/*~
+/out
+*~
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+pom.xml.*
+release.properties
